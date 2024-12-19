@@ -1,0 +1,2 @@
+# search_from_dekirudake_scratch_nikki
+情報検索とその要素技術についてやったことを記載します。
